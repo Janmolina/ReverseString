@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;locators.DropdownDynamic&apos; to &apos;UpdateletcureOnLatetsDropdown&apos;&#x0D;&#x0A;- Original project: &apos;GetJobSoon&apos;&#x0D;&#x0A;- Original element: &apos;locators.DropdownDynamic&apos;&#x0D;&#x0A;- Renamed element: &apos;locators.UpdateletcureOnLatetsDropdown&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DropdownDynamic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;locators{DropdownDynamic.java[DropdownDynamic" matchStrategy="1" name="UpdateletcureOnLatetsDropdown" qualified="false" references="true" similarDeclarations="false" stamp="1669308736266" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;TestNGPractice.OpenBrowserUndemy&apos; to &apos;OpenBrowserUndemySetProperty&apos;&#x0D;&#x0A;- Original project: &apos;GetJobSoon&apos;&#x0D;&#x0A;- Original element: &apos;TestNGPractice.OpenBrowserUndemy&apos;&#x0D;&#x0A;- Renamed element: &apos;TestNGPractice.OpenBrowserUndemySetProperty&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OpenBrowserUndemy&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;TestNGPractice{OpenBrowserUndemy.java[OpenBrowserUndemy" matchStrategy="1" name="OpenBrowserUndemySetProperty" qualified="false" references="true" similarDeclarations="false" stamp="1668279200310" textual="false" version="1.0"/>
+</session>
